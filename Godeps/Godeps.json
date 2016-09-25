@@ -1,15 +1,9 @@
 {
-  "ImportPath": "gochat",
-  "GoVersion": "go1.7",
-  "GodepVersion": "v74",
-  "Packages": [
-    "./..."
-  ],
-  "Deps": [
-    {
-      "ImportPath": "golang.org/x/net/websocket",
-      "Rev": "cbcac7bb8415db9b6cb4d1ebab1dc9afbd688b97"
-    }
-  ]
+	"ImportPath": ".",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v74",
+	"Packages": [
+		"./..."
+	],
+	"Deps": []
 }
-
