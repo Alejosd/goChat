@@ -7,9 +7,8 @@
 	],
 	"Deps": [
       {
-        "ImportPath": "github.com/gin-gonic/gin",
-        "Comment": "v1.0rc1-110-g4cc2de6",
-        "Rev": "4cc2de6207f4128624cbdd16be30f64966c67c08"
+        "ImportPath": "golang.org/x/net/websocket",
+        "Rev": "07b51741c1d6423d4a6abab1c49940ec09cb1aaf"
       }
     ]
 }
