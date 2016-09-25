@@ -3,12 +3,12 @@
   "GoVersion": "go1.7",
   "GodepVersion": "v74",
   "Packages": [
-    "./..."
+    "../golang.org/x/net/websocket"
   ],
   "Deps": [
     {
       "ImportPath": "golang.org/x/net/websocket",
-      "Rev": "7553b97266dcbbf78298bd1a2b12d9c9aaae5f40"
+      "Rev": "cbcac7bb8415db9b6cb4d1ebab1dc9afbd688b97"
     }
   ]
 }
