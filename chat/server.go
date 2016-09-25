@@ -3,8 +3,7 @@ package chat
 import (
 	"log"
 	"net/http"
-
-	"golang.org/x/net/websocket"
+	"../src/golang.org/x/net/websocket"
 )
 
 // Chat server.
