@@ -8,7 +8,7 @@
 	"Deps": [
       {
         "ImportPath": "golang.org/x/net/websocket",
-        "Rev": "07b51741c1d6423d4a6abab1c49940ec09cb1aaf"
+        "Rev": "8968c61983e8f51a91b8c0ef25bf739278c89634"
       }
     ]
 }
