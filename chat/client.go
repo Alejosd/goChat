@@ -5,7 +5,7 @@ import (
 	"io"
 	"log"
 
-	"../golang.org/x/net/websocket"
+	"golang.org/x/net/websocket"
 )
 
 const channelBufSize = 100
