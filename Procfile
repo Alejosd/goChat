@@ -1,1 +1,1 @@
-web: goChat
+web: gochat
