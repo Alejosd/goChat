@@ -7,7 +7,7 @@
 	],
 	"Deps": [
       {
-        "ImportPath": "github.com/golang/net"
+        "ImportPath": "golang.org/x/net/websocket"
       }
     ]
 }
