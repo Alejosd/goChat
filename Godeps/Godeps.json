@@ -3,7 +3,8 @@
 	"GoVersion": "go1.7",
 	"GodepVersion": "v74",
 	"Packages": [
-		"./..."
+		"./...",
+      "golang.org/x/net/websocket"
 	],
 	"Deps": [
       {
