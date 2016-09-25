@@ -13,7 +13,7 @@ func main() {
 
 	if port == "" {
 		//log.Fatal("$PORT must be set")
-		port=":8080"
+		port="8080"
 	}
 
 	log.SetFlags(log.Lshortfile)
@@ -22,7 +22,7 @@ func main() {
 	server := chat.NewServer("/entry")
 	go server.Listen()
 	// static files
-	http.Handle("/", http.FileServer(http.Dir(".")))
+	http.Handle("/", http.FileServer(http.Dir("src/webroot")))
 
-	log.Fatal(http.ListenAndServe(":8080", nil))
+	log.Fatal(http.ListenAndServe(":"+port, nil))
 }
