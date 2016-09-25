@@ -6,8 +6,5 @@
     "./..."
   ],
   "Deps": [
-    {
-      "ImportPath": "golang.org/x/net/websocket"
-    }
   ]
 }
