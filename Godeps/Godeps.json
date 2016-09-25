@@ -2,5 +2,5 @@
 	"ImportPath": "gochat",
 	"GoVersion": "go1.7",
 	"GodepVersion": "v74",
-	"Deps": []
+	"Deps": ["golang.org/x/net/websocket"]
 }
