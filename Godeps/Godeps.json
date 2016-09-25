@@ -7,7 +7,7 @@
 	],
 	"Deps": [
       {
-        "ImportPath": "https://github.com/golang/net.git"
+        "ImportPath": "github.com/golang/net"
       }
     ]
 }
