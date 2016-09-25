@@ -24,9 +24,5 @@ func main() {
 	// static files
 	http.Handle("/", http.FileServer(http.Dir(".")))
 
-	log.Fatal(http.ListenAndServe(port, nil))
-
-
-
-
+	log.Fatal(http.ListenAndServe(":8080", nil))
 }
