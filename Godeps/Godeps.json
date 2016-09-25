@@ -1,5 +1,5 @@
 {
-	"ImportPath": ".",
+	"ImportPath": "gochat",
 	"GoVersion": "go1.7",
 	"GodepVersion": "v74",
   "Packages": [
