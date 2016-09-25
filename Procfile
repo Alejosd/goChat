@@ -1,1 +1,1 @@
-web: gochat
+web: github.com/Alejosd/gochat
